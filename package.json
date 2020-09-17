@@ -20,7 +20,8 @@
   "homepage": "https://github.com/josevitorjr/rocketseat_nodejs#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.10.5"
+    "mongoose": "^5.10.5",
+    "require-dir": "^1.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
